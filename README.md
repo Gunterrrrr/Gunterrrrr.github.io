@@ -3,4 +3,7 @@
 1900012701
 #### 作业1：[词频统计](https://gunterrrrr.github.io/a_song_of_ice_and_fire_word_freq.html)
 对于乔治·R·R·马丁的小说《冰与火之歌》进行词频统计，并用pyecharts进行数据可视化，作出了出现频率前50词语的柱状图、出现频率前10词语的玫瑰图和词云。
-[词频统计链接](https://gunterrrrr.github.io/a_song_of_ice_and_fire_word_freq.html)
+#### 作业2：中国地图、世界地图
+1. [中国地图](https://gunterrrrr.github.io/housing_price.html)：展示了2022年2月中国的房价情况，利用了pyecharts.charts.Map绘制了北京市各区的房价情况；利用了pyecharts.charts.Geo绘制了中国主要城市的房价情况。
+2. 世界地图
+#### 作业3：组合图表
