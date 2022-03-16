@@ -7,3 +7,4 @@
 1. [中国地图](https://gunterrrrr.github.io/housing_price.html)：展示了2022年2月中国的房价情况，利用了pyecharts.charts.Map绘制了北京市各区的房价情况；利用了pyecharts.charts.Geo绘制了中国主要城市的房价情况。
 2. [世界地图](https://gunterrrrr.github.io/world_top_10_ecnomies_GDP.html)：以时间轴方式绘制的2008~2012年世界十大经济体的GDP（国内生产总值）数据。
 #### 作业3：组合图表
+在作业1、2中已经利用到组合图表，例如选项卡多图[《冰与火之歌》词频统计](https://gunterrrrr.github.io/a_song_of_ice_and_fire_word_freq.html)和[2022年2月北京市及中国主要城市房价图](https://gunterrrrr.github.io/housing_price.html)、时间轴轮播多图[2008~2012年世界十大经济体的GDP](https://gunterrrrr.github.io/world_top_10_ecnomies_GDP.html)。
