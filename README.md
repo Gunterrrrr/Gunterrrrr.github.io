@@ -9,4 +9,4 @@
 #### 作业3：组合图表
 在作业1、2中已经利用到组合图表，例如选项卡多图[《冰与火之歌》词频统计](https://gunterrrrr.github.io/a_song_of_ice_and_fire_word_freq.html)和[2022年2月北京市及中国主要城市房价图](https://gunterrrrr.github.io/housing_price.html)、时间轴轮播多图[2008~2012年世界十大经济体的GDP](https://gunterrrrr.github.io/world_top_10_ecnomies_GDP.html)。
 
-另外，采取simple layout的布局方式，绘制了[2022.3.16天气情况及七天气温预报](https://gunterrrrr.github.io/weather_2022_3_16.html)。
+另外，采取simple layout的布局方式，绘制了[2022.3.16 天气情况及七天气温预报](https://gunterrrrr.github.io/weather_2022_3_16.html)。
