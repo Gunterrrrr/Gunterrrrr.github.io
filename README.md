@@ -14,3 +14,5 @@
 ## 计算机科学与编程入门第二次作业
 #### 作业1：[搜索引擎](https://gunterrrrr.github.io/search_engine.html)
 使用文本编辑器，用html设计一个网页；页面包含输入框、按钮和一些介绍文字，实现某个搜索引擎的搜索功能；先直接用html实现，再用bootstrap实现美观版式（扩展要求）。
+#### 作业2：[网页设计](https://gunterrrrr.github.io/webpage.html)
+使用文本编辑器，设计一个网页，内容自定；以文本为主，适量配图；用CSS进行美化。
