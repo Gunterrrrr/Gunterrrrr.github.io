@@ -1,0 +1,54 @@
+.centered
+{
+	text-align:center;
+}
+#paragraph
+{
+	text-align:left;
+	margin: 10px 100px 0px 100px;
+	font-family: Helvetica;
+	font-size: 1.125em;
+}
+#Hlt
+{
+	font-family: Helvetica;
+}
+#left
+{
+	text-align:left;
+}
+
+#draw {
+	transition: color 0.25s;
+}
+#draw::before, .draw::after {
+	border: 2px solid transparent;
+	width: 0;
+	height: 0;
+}
+#draw::before {
+	top: 0;
+	left: 0;
+}
+#draw::after {
+	bottom: 0;
+	right: 0;
+}
+#draw:hover {
+	color: #518100;	
+	cursor: pointer;
+}
+#draw:hover::before, .draw:hover::after {
+	width: 100%;
+	height: 100%;
+}
+#draw:hover::before {
+	border-top-color: #518100;
+	border-right-color: #518100;
+	transition: width 0.5s ease-out, height 0.5s ease-out 0.5s;
+}
+#draw:hover::after {
+	border-bottom-color: #518100;
+	border-left-color: #518100;
+	transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
+}
